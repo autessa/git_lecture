@@ -3,3 +3,5 @@ tomato
 lime
 garlic
 salt + white pepper
+onions
+jalapenos
