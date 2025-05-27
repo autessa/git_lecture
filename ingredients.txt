@@ -2,4 +2,4 @@ avocado
 tomato
 lime
 garlic
-salt + pepper
+salt + black pepper
